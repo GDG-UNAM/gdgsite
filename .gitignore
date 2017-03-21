@@ -1,0 +1,3 @@
+.DS_Store
+#Se ignora el archivo que contiene las claves del proyecto
+/public/includes/js/keys
