@@ -36,3 +36,6 @@ Despues de clonar el repositorio hay que seguir una serie de pasos para poder co
 Listo :D
 
 
+1.- Master (JAMAS se toca)
+2.- Staging (Pruebas de una versión estable en local)
+3.- Local (Aqui se junta todo de las ramas personales)
